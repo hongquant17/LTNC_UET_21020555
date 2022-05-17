@@ -26,5 +26,20 @@
 ![image](https://user-images.githubusercontent.com/92194647/168730219-2376ace5-b21c-4912-adec-aa02dc31f976.png)
 ![image](https://user-images.githubusercontent.com/92194647/168730244-5edf602c-b562-47a8-b4a1-307ad4194651.png)
 
-## _Các kĩ thuật sử dụng_
+### _Các kĩ thuật sử dụng_
 
+_**SDL2**_
+- Kĩ thuật liên quan đến tilemap, render nhiều đối tượng, tại nhiều vị trí,...
+- Load hình ảnh, âm thanh, animation đơn giản,...
+
+_**C++**_
+- Kiến thức cơ bản: mảng, vector, chuỗi, random,...
+- Lập trình hướng đối tượng sơ cấp: class; vận dụng tính đóng gói, kế thừa;...
+
+_**Kĩ thuật khác**_
+- Tính toán, căn chỉnh các đối tượng.
+- Vận dụng toán học để áp dụng tính vật lý cho game.
+- Đóng gói game để có thể dễ dàng install trên thiết bị khác.
+
+
+### _Cài đặt_
