@@ -76,7 +76,7 @@ _**Kĩ thuật khác**_
 
 ## _Kết luận_
 - Sau khi tương đối hoàn thành BTL kết thúc học phần INT2215 1, em thấy phần đáng chú ý là lập trình hướng đối tượng (OOP) để xây dựng từng đối tượng cho game, việc code sẽ gọn gàng và dễ tham khảo, suy luận hơn.
-- Có phần comment hai hàm trong code là điều em nhận ra, không phải lỗi font khi render mà do hai hàm có vấn đề khi gọi ở file `main.exe`, em sửa bằng cách thay vì gọi nó, em dùng `to_string` và `c_str()`, có thể hơi rối nhưng lại hữu ích và vấn đề đã được giải quyết.
+- Có phần comment hai hàm trong code là điều em nhận ra, không phải lỗi font khi render mà do hai hàm có vấn đề khi gọi ở file `main.cpp`, em sửa bằng cách thay vì gọi nó, em dùng `to_string` và `c_str()`, có thể hơi rối nhưng lại hữu ích và vấn đề đã được giải quyết.
 - Em nghĩ để phát triển hơn, có thể thêm những đối tượng để cản trở nhân vật, ví dụ như gai, chạm vào sẽ "chết", background có thể thay đổi cho sinh động hơn,... Về phần code thì cần chia lại file, tối giản hàm `main`.
 
 
