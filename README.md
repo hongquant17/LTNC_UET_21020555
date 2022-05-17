@@ -43,3 +43,14 @@ _**Kĩ thuật khác**_
 
 
 ### _Cài đặt_
+- Tải các file theo đường dãn: https://drive.google.com/drive/u/0/folders/1TIZpdjf2GdVgC7fx6RN6pSo8n-Hl33qA, mở file setup.exe vào làm theo chỉ dẫn.
+- Để gỡ bỏ, vào Control Panel -> Uninstall a program, tìm Setup1 và gỡ.
+
+
+
+**Trong trường hợp thiếu file \*.dll :**
++ Truy cập vào đường link ở trên, tải về file "System32" và "SysWOW64".
+  ii. Giải nén file vừa tải về.
+  iii. Copy file .dll trong file "System32" dán vào trong thư mục "C:\Windows\System32".
+  iv. Copy file .dll trong file "SysWOW64" dán vào trong thư mục "C:\Windows\SysWOW64".
+  v. Thoát ra ngoài và chạy lại chương trình.
