@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Resource Files\res">
+      <UniqueIdentifier>{6e9fdf9b-ef80-4138-a06d-b311dad69d4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Resource Files\res\textures">
+      <UniqueIdentifier>{ce003284-31d1-4769-8bda-b65c0cc4fdf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Resource Files\res\textures\ground">
+      <UniqueIdentifier>{91432b1b-5e6e-430d-b614-9b9968c588ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Resource Files\res\textures\player">
+      <UniqueIdentifier>{4dc26887-b6fb-4ab0-ac2b-2218a545f80e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Resource Files\res\fonts">
+      <UniqueIdentifier>{863efca5-75b2-4997-9930-623b6974398f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Resource Files\res\sounds">
+      <UniqueIdentifier>{0faec5f0-6c44-4792-90ff-3997cd88d6ee}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="res\fonts\cocogoose.ttf">
+      <Filter>Source Files\Resource Files\res\fonts</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\textures\arrow.png">
+      <Filter>Source Files\Resource Files\res\textures</Filter>
+    </Image>
+    <Image Include="res\textures\death_overlay.png">
+      <Filter>Source Files\Resource Files\res\textures</Filter>
+    </Image>
+    <Image Include="res\textures\highscore_box.png">
+      <Filter>Source Files\Resource Files\res\textures</Filter>
+    </Image>
+    <Image Include="res\textures\logo.png">
+      <Filter>Source Files\Resource Files\res\textures</Filter>
+    </Image>
+    <Image Include="res\textures\ground\center.png">
+      <Filter>Source Files\Resource Files\res\textures\ground</Filter>
+    </Image>
+    <Image Include="res\textures\ground\hole.png">
+      <Filter>Source Files\Resource Files\res\textures\ground</Filter>
+    </Image>
+    <Image Include="res\textures\ground\left.png">
+      <Filter>Source Files\Resource Files\res\textures\ground</Filter>
+    </Image>
+    <Image Include="res\textures\ground\right.png">
+      <Filter>Source Files\Resource Files\res\textures\ground</Filter>
+    </Image>
+    <Image Include="res\textures\player\player_0.png">
+      <Filter>Source Files\Resource Files\res\textures\player</Filter>
+    </Image>
+    <Image Include="res\textures\player\player_1.png">
+      <Filter>Source Files\Resource Files\res\textures\player</Filter>
+    </Image>
+    <Image Include="res\textures\player\player_2.png">
+      <Filter>Source Files\Resource Files\res\textures\player</Filter>
+    </Image>
+    <Image Include="res\textures\player\player_3.png">
+      <Filter>Source Files\Resource Files\res\textures\player</Filter>
+    </Image>
+    <Image Include="res\textures\player\player_4.png">
+      <Filter>Source Files\Resource Files\res\textures\player</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="res\sounds\click.wav">
+      <Filter>Source Files\Resource Files\res\sounds</Filter>
+    </Media>
+    <Media Include="res\sounds\fall.wav">
+      <Filter>Source Files\Resource Files\res\sounds</Filter>
+    </Media>
+    <Media Include="res\sounds\hit.wav">
+      <Filter>Source Files\Resource Files\res\sounds</Filter>
+    </Media>
+    <Media Include="res\sounds\jump.wav">
+      <Filter>Source Files\Resource Files\res\sounds</Filter>
+    </Media>
+    <Media Include="res\sounds\music.wav">
+      <Filter>Source Files\Resource Files\res\sounds</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ground.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="groundtile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="renderwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="groundtile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ground.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="renderwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
