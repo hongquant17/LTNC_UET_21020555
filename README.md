@@ -19,7 +19,7 @@
 
 ## _Video Gameplay_
 
-### Link Youtube: `https://youtu.be/WEYXQzuEj3A`
+### Link Youtube: https://youtu.be/WEYXQzuEj3A
 
 
 ## _Hình ảnh sơ bộ_
