@@ -53,7 +53,7 @@ _**Kĩ thuật khác**_
 
 
 ## _Cài đặt_
-- Tải các file theo đường dãn: https://drive.google.com/drive/u/0/folders/1TIZpdjf2GdVgC7fx6RN6pSo8n-Hl33qA, mở file setup.exe vào làm theo chỉ dẫn.
+- Tải các file theo đường dẫn: https://drive.google.com/drive/u/0/folders/1TIZpdjf2GdVgC7fx6RN6pSo8n-Hl33qA, mở file setup.exe vào làm theo chỉ dẫn.
 - Để gỡ bỏ, vào Control Panel -> Uninstall a program, tìm Setup1 và gỡ.
 
 
