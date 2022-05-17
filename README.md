@@ -6,6 +6,7 @@
 - Bài tập lớn cuối khóa: Cursorphobia (Lập trình nâng cao - INT2215 1)
 - Sinh viên: Trần Hồng Quân - 21020555
 
+
 ## Mô tả chi tiết
 ## _Nhân vật_
 - Nhân vật chính của game được sinh ra với một điều đặc biệt là sợ con trỏ chuột, tức khi ta di chuột đến thì nhân vật sẽ di chuyển theo hướng ngược lại. Ngoài ra thì nếu chuột chạm vào nhân vật thì nhân vật đó sẽ "chết", phần nào lí giải cho chứng sợ con trỏ chuột này.
@@ -15,8 +16,10 @@
 - Phần vật lý của game cho phép con trỏ càng gần nhân vật thì tốc độ của nó càng nhanh, cũng như là nó sẽ càng nhảy cao hơn.
 - Độ khó của game được tăng dần theo điểm (khoảng cách đã di chuyển), điểm càng cao thì map sẽ chạy nhanh hơn, phản hồi của nhân vật cũng nhanh hơn (`SDL_Delay()`).
 
-## Video Gameplay
 
+## _Video Gameplay_
+
+### Link Youtube: `https://youtu.be/WEYXQzuEj3A`
 
 
 ## _Hình ảnh sơ bộ_
@@ -25,6 +28,7 @@
 ![image](https://user-images.githubusercontent.com/92194647/168730128-d604c984-ba2f-4c25-b7bc-0912284df9c9.png)
 ![image](https://user-images.githubusercontent.com/92194647/168730219-2376ace5-b21c-4912-adec-aa02dc31f976.png)
 ![image](https://user-images.githubusercontent.com/92194647/168730244-5edf602c-b562-47a8-b4a1-307ad4194651.png)
+
 
 ## _Các kĩ thuật sử dụng_
 
@@ -47,13 +51,13 @@ _**Kĩ thuật khác**_
 - Để gỡ bỏ, vào Control Panel -> Uninstall a program, tìm Setup1 và gỡ.
 
 
-
 **Trong trường hợp thiếu file \*.dll :**
 - Truy cập vào đường link ở trên, tải về file "System32" và "SysWOW64".
 - Giải nén file vừa tải về.
 - Copy file .dll trong file "System32" dán vào trong thư mục "C:\Windows\System32".
 - Copy file .dll trong file "SysWOW64" dán vào trong thư mục "C:\Windows\SysWOW64".
 - Thoát ra ngoài và chạy lại chương trình.
+
 
 ## _Nguồn tham khảo_
 - Về thư viện SDL2: https://lazyfoo.net/tutorials/SDL/index.php
