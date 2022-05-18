@@ -1,9 +1,9 @@
 # LTNC_UET_21020555
 
-# _Cursor Custodian_
+# _Cursorphobia_
 
 ## Thông tin chung
-- Bài tập lớn cuối khóa: Cursorphobia (Lập trình nâng cao - INT2215 1)
+- Bài tập lớn cuối khóa: Cursorphobia - Cursor Custodian (Lập trình nâng cao - INT2215 1)
 - Sinh viên: Trần Hồng Quân - 21020555
 
 
