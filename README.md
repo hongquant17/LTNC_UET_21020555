@@ -15,7 +15,7 @@
 
 
 ## _Cách chơi_
-- Cách chơi hết sức đơn giản, hoàn toàn sử dụng chuột, ấn chuột thì nhân vật sẽ nhảy lên.
+- Cách chơi khá đơn giản, hoàn toàn sử dụng chuột, ấn chuột thì nhân vật sẽ nhảy lên.
 - Phần vật lý của game cho phép con trỏ càng gần nhân vật thì tốc độ của nó càng nhanh, cũng như là nó sẽ càng nhảy cao hơn.
 - Độ khó của game được tăng dần theo điểm (khoảng cách đã di chuyển), điểm càng cao thì map sẽ chạy nhanh hơn, phản hồi của nhân vật cũng nhanh hơn (`SDL_Delay()`).
 
